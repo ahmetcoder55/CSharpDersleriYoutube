@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="KosulYapilari/KosulYapilari.csproj" Id="05a8abc3-213f-4942-86de-90a78ebd0d57" />
   <Project Path="Variables/Variables.csproj" Id="828da632-1fb0-4d47-8a6a-5aff384d9419" />
 </Solution>
